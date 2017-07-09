@@ -1,4 +1,4 @@
-package com.test.boot;
+package com.hello.boot;
 
 /**
  * Created by chinthana on 7/10/17.

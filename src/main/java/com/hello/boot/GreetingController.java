@@ -1,4 +1,4 @@
-package com.test.boot;
+package com.hello.boot;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -21,5 +21,5 @@ public class GreetingController {
                 String.format(template, name));
     }
 
-    
+
 }
