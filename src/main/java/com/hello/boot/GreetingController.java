@@ -1,5 +1,6 @@
 package com.hello.boot;
 
+import com.hello.boot.models.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;

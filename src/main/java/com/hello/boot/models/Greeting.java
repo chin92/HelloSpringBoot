@@ -1,4 +1,4 @@
-package com.hello.boot;
+package com.hello.boot.models;
 
 /**
  * Created by chinthana on 7/10/17.
