@@ -2,6 +2,7 @@ package com.hello.boot.models;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
+import java.io.Serializable;
 
 @Entity
 @Table(name="users")
@@ -17,7 +18,7 @@ public class User {
     @NotNull
     private String name;
 
-    public User(){};
+    public User(){}
 
     public User(long id){
         this.id=id;
